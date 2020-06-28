@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Frm_DangNhap.resources
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Frm_TaiKhoan.resources
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Frm_Admin.resources
+C:\Users\admin\Desktop\DatabaseQuanLyQuanTraSua\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Frm_QuanLyQuan.resources
